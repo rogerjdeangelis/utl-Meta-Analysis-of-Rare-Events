@@ -13,3 +13,8 @@ GitHub Repository
 
 https://github.com/rogerjdeangelis/utl-Meta-Analysis-of-Rare-Events
 
+Disclaimer
+ The views, results and information presented here are solely those of the author
+ and do not purport to reflect the views, results or information of any
+ institution or entity associated with the author.
+
